@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @Lewis-P-T
+- 👋 Hi, I’m @Lewis-P-T, but most people just call me Lewis 🙂
+- 📜 I majored in computer science at the university of Canterbury.
+- 💻 I am very confident with the following software languages; Python, SQL, JavaScript, CSS, and HTML.
 - 👀 I’m interested in web development, blockchain development and cryptography.
-- 🌱 I’m currently learning solidity and how to tie my shoe laces. 
+- 🌱 I’m currently learning Solidity and Nodejs. 
 
 <!---
 Lewis-P-T/Lewis-P-T is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
