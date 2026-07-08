@@ -1,5 +1,6 @@
-- 👋 Hi, I'm @Lewis-P-T, but most people just call me Lewis 🙂
-- 📜 I majored in computer science at the University of Canterbury. 
-- 👷‍♂️ I'm currently working as a fullstack web developer (3 years exp)
-- 👀 I'm interested in AI, blockchain technologies, cryptography and maps.
-- 🌱 Outside of work i'm currently eating sleeping or spending time optimizing my github profile
+I have branches but no trees,  
+I commit crimes but never get arrested,  
+I get forked daily but I'm not food,  
+and when I'm merged... everyone cheers.
+
+What am I?
